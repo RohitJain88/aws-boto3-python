@@ -1,0 +1,5 @@
+# Ignored virtual env files
+venv/
+
+#Default ignored files
+.idea
